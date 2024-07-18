@@ -1,0 +1,18 @@
+{
+    "name": "socreativeneeraj/sociwala",
+    "description": "This is laravel package for social icons for the website",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "SocreativeNeeraj\\SociWala\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Neeraj Saini",
+            "email": "neeraj.socreative@gmail.com"
+        }
+    ]
+}
